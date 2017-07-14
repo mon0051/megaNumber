@@ -13,7 +13,6 @@ function fromJsNumber(number) {
         bits[bits.length] = true;
     }
     this.bits = bits;
-
 }
 
 function fromIntegerState(number){
