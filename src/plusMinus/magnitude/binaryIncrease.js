@@ -1,4 +1,4 @@
-let IntegerState = require('../../state/IntegerState');
+let IntegerState = require('../../internal-state/IntegerState');
 
 function carryBit(number,index){
     if(number.bits[index]){

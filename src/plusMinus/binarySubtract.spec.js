@@ -1,5 +1,5 @@
 let binarySub = require('./binarySubtract');
-let IntegerState = require('../state/IntegerState');
+let IntegerState = require('../internal-state/IntegerState');
 
 describe("Binary Number Subtraction", function () {
     it("odd sub odd 5 - 7 = -2", function () {

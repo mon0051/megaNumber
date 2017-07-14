@@ -1,6 +1,6 @@
 let binaryIncrease = require('./magnitude/binaryIncrease');
 let binaryDecrease = require('./magnitude/binaryDecrease');
-let IntegerState = require('../state/IntegerState');
+let IntegerState = require('../internal-state/IntegerState');
 
 /**
  *  @param n1 {IntegerState}

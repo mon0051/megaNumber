@@ -1,5 +1,5 @@
 let binaryDecrease = require('./binaryDecrease');
-let IntegerState = require('../../state/IntegerState');
+let IntegerState = require('../../internal-state/IntegerState');
 
 describe("Binary Decrease", function () {
     it("1 lower by 1 is 0", function () {

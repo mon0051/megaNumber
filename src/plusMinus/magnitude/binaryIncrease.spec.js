@@ -1,5 +1,5 @@
 let binaryIncrease = require('./binaryIncrease');
-let IntegerState = require('../../state/IntegerState');
+let IntegerState = require('../../internal-state/IntegerState');
 
 
 describe("Magnitude Increase", function () {

@@ -1,4 +1,4 @@
-let IntegerState = require('../../state/IntegerState');
+let IntegerState = require('../../internal-state/IntegerState');
 
 function bigger(n1,n2){
     if(n1.bits.length > n2.bits.length){
